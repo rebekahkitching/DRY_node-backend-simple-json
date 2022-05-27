@@ -1,0 +1,1 @@
+Simplified and made server.js code more dry 
